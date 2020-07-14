@@ -1,0 +1,16 @@
+function convertHTML(str) {
+  // &colon;&rpar;
+  var obj = {
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "\"": "&quot;",
+    "\'": "&apos;"
+  }
+  return str
+    .split("")
+    .map(entity => obj[entity] || entity)
+    .join("");
+}
+
+convertHTML("Dolce & Gabbana");

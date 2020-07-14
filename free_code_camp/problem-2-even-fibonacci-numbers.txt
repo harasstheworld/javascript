@@ -1,0 +1,16 @@
+function fiboEvenSum(n) {
+  // You can do it!
+  var before = 1;
+  var after = 2;
+  var sum = 2;
+  while (after <= n) {
+    after = before + after;
+    before = after - before;
+    if (after % 2 == 0) {
+      sum += after;
+    }
+  }
+  return sum;
+}
+
+fiboEvenSum(2);
