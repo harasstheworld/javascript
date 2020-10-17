@@ -1,0 +1,11 @@
+function translatePigLatin(str) {
+  if (/^[aeuoi]/.test(str)) {
+    return str.concat("way");
+  } else {
+    const val = str.match(/^[^aeuoi]+/)[0];
+    return str.substring(val.length) + val + "ay";
+  }
+  
+}
+
+translatePigLatin("consonant");

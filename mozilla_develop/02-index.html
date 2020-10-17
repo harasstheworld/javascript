@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <!-- font adding --->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+    <title>Document</title>
+    <style>
+        p {
+            color: red;
+            width: 500px;
+            border: 1px solid black;
+        }
+        p, li, h1 {
+            color: black ;
+        }
+        h1 {
+            font-size: 1em;
+            text-align: center;
+            line-height: 2;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1></h1>
+    <!-- /*
+    ID selector: #my-id
+    Class selector: .my-class
+    Attribute selector: img[src]
+    Element selector: p
+    Pseudo-class selector: a:hover
+    */ -->
+    <img src="http://mdn.github.io/beginner-html-site/images/firefox-icon.png" alt="Mozilla Firefox">
+
+    <p>CSS layout is mostly based on the box model. Each box taking up space on your page has properties like:</p><br />
+    <ul>
+        <li>padding, the space around the content. In the example below, it is the space around the paragraph text.</li>
+        <li>border, the solid line that is just outside the padding.</li>
+        <li>margin, the space around the outside of the border.</li>
+    </ul>
+    <button>Change user</button>
+
+    <!-- width, background-color, color, text-shadow, display -->
+    
+    <!-- javascript -->
+    <script src="scripts/main.js"></script>
+    <script>
+        let myButton = document.querySelector('button');
+        let myHeading = document.querySelector('h1');
+
+        function setUserName() {
+            let myName = prompt('Please enter your name.');
+            localStorage.setItem('name', myName);
+            myHeading.textContent = 'Mozilla is cool, ' + myName;
+        }
+    </script>
+</body>
+</html>

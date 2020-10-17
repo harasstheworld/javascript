@@ -1,0 +1,23 @@
+// function myReplace(str, before, after) {
+
+//   if (before.charAt(0).toUpperCase() === before.charAt(0)) {
+//     after = after.charAt(0).toUpperCase() + after.slice(1)
+//     // after = after.charAt(0) + after.slice(1)
+//   } else {
+//     after = after[0].toLowerCase() + after.slice(1)
+//   }
+//   str = str.replace(before, after)
+//   return str;
+// }
+
+function myReplace(str, before, after) {
+  const myArr = str.split(" ");
+  const [wordToReplace] = myArr.filter(item => item === before);
+  return wordToReplace[0].toUpperCase() !== wordToReplace[0]
+    ? myArr.map(item => (item === before ? after.replace(after[0], after.charAt(0).toLowerCase()) : item)).join(" ")
+    : myArr
+        .map(item =>
+          item === before ? after[0].toUpperCase() + after.slice(1) : item
+        )
+        .join(" ");
+}

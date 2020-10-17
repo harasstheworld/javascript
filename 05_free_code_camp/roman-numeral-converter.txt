@@ -1,0 +1,42 @@
+function convertToRoman(num) {
+  
+  var rLits = {
+    1:    'I', // * 5
+    5:    'V', // * 2
+    10:   'X', // * 5
+    50:   'L', // * 2
+    100:  'C', // * 5
+    500:  'D', // * 2
+    1000: 'M'  // * 5
+  };
+  
+  num = (num + '').split('');
+    
+  var str = '';
+  
+  for (var i = num.length - 1, bit = 1; i >= 0; i--, bit*=10) {   
+    var digit = parseInt(num[i]);
+    var basePrev = '';
+    var baseCurr = rLits[5*bit];
+    
+    if (digit > 5) {
+      basePrev = rLits[5*bit];
+      baseCurr = rLits[10*bit];
+      digit = digit % 5;
+    } else if (digit === 5) {
+      str = rLits[5*bit] + str;
+    }
+    
+    switch (digit) {
+      case 1: str = basePrev + rLits[1*bit] + str; 
+        break;
+      case 2: str = basePrev + rLits[1*bit].repeat(2) + str; 
+        break;
+      case 3: str = basePrev + rLits[1*bit].repeat(3) + str;
+        break;
+      case 4: str = rLits[1*bit] + baseCurr + str;
+    }
+  }
+  
+  return str;
+}

@@ -1,0 +1,30 @@
+// function steamrollArray(arr) {
+//   const myArr = []
+//   const addItem = item => {
+//     if (!Array.isArray(item)) {
+//       myArr.push(item)
+//     } else {
+//       item.forEach(item => addItem(item))
+//     }
+//   }
+//   arr.forEach(addItem)
+//   return myArr
+// }
+
+function steamrollArray(arr) {
+  const myArr = []
+  
+  const addItem = item => {
+    if (!Array.isArray(item)) {
+      myArr.push(item)
+    } else {
+      item.map(addItem)
+    }
+  }
+
+  arr.map(addItem)
+  return myArr
+
+}
+
+steamrollArray([1, [2], [3, [[4]]]]);
