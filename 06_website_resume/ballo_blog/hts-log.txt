@@ -1,0 +1,266 @@
+HTTrack3.49-2 launched on Wed, 11 Nov 2020 04:53:01 at https://baloo.az-theme.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://baloo.az-theme.net/ -O "/home/happyperson/websites/ballo_blog" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:54:40	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://baloo.az-theme.net/)
+04:54:41	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/rss, /archive/, /?filters (see in the options to disable this)
+04:54:41	Warning: 	Moved Permanently for s.w.org/
+04:54:41	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+04:55:11	Warning: 	Moved Permanently for baloo.az-theme.net/robots.txt
+04:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/robots.txt and https://baloo.az-theme.net/robots.txt
+04:55:11	Warning: 	Warning moved treated for baloo.az-theme.net/robots.txt (real one is https://baloo.az-theme.net/robots.txt)
+04:55:11	Warning: 	Moved Permanently for baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout_boxed=yes&type_boxed=color and https://baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:55:11	Warning: 	File has moved from baloo.az-theme.net/?layout_boxed=yes&type_boxed=color to https://baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:55:11	Warning: 	Moved Permanently for baloo.az-theme.net/?layout_boxed=yes&type_boxed=image
+04:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout_boxed=yes&type_boxed=image and https://baloo.az-theme.net/?layout_boxed=yes&type_boxed=image
+04:55:11	Warning: 	File has moved from baloo.az-theme.net/?layout_boxed=yes&type_boxed=image to https://baloo.az-theme.net/?layout_boxed=yes&type_boxed=image
+04:55:11	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=mix&sidebar=no&limit=8
+04:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=mix&sidebar=no&limit=8 and https://baloo.az-theme.net/?layout=mix&sidebar=no&limit=8
+04:55:11	Warning: 	File has moved from baloo.az-theme.net/?layout=mix&sidebar=no&limit=8 to https://baloo.az-theme.net/?layout=mix&sidebar=no&limit=8
+04:55:16	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=mix&sidebar=yes&limit=6
+04:55:16	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=mix&sidebar=yes&limit=6 and https://baloo.az-theme.net/?layout=mix&sidebar=yes&limit=6
+04:55:16	Warning: 	File has moved from baloo.az-theme.net/?layout=mix&sidebar=yes&limit=6 to https://baloo.az-theme.net/?layout=mix&sidebar=yes&limit=6
+04:55:17	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=list&sidebar=no&limit=9
+04:55:17	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=list&sidebar=no&limit=9 and https://baloo.az-theme.net/?layout=list&sidebar=no&limit=9
+04:55:17	Warning: 	File has moved from baloo.az-theme.net/?layout=list&sidebar=no&limit=9 to https://baloo.az-theme.net/?layout=list&sidebar=no&limit=9
+04:55:17	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=list&sidebar=yes&limit=6
+04:55:17	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=list&sidebar=yes&limit=6 and https://baloo.az-theme.net/?layout=list&sidebar=yes&limit=6
+04:55:17	Warning: 	File has moved from baloo.az-theme.net/?layout=list&sidebar=yes&limit=6 to https://baloo.az-theme.net/?layout=list&sidebar=yes&limit=6
+04:55:20	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=masonry&sidebar=no&limit=9
+04:55:20	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=masonry&sidebar=no&limit=9 and https://baloo.az-theme.net/?layout=masonry&sidebar=no&limit=9
+04:55:20	Warning: 	File has moved from baloo.az-theme.net/?layout=masonry&sidebar=no&limit=9 to https://baloo.az-theme.net/?layout=masonry&sidebar=no&limit=9
+04:55:21	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=masonry&sidebar=yes&limit=9
+04:55:21	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=masonry&sidebar=yes&limit=9 and https://baloo.az-theme.net/?layout=masonry&sidebar=yes&limit=9
+04:55:21	Warning: 	File has moved from baloo.az-theme.net/?layout=masonry&sidebar=yes&limit=9 to https://baloo.az-theme.net/?layout=masonry&sidebar=yes&limit=9
+04:55:22	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=3cols_grid&sidebar=no&limit=9
+04:55:22	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=3cols_grid&sidebar=no&limit=9 and https://baloo.az-theme.net/?layout=3cols_grid&sidebar=no&limit=9
+04:55:22	Warning: 	File has moved from baloo.az-theme.net/?layout=3cols_grid&sidebar=no&limit=9 to https://baloo.az-theme.net/?layout=3cols_grid&sidebar=no&limit=9
+04:55:23	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=3cols_grid&sidebar=yes&limit=9
+04:55:23	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=3cols_grid&sidebar=yes&limit=9 and https://baloo.az-theme.net/?layout=3cols_grid&sidebar=yes&limit=9
+04:55:23	Warning: 	File has moved from baloo.az-theme.net/?layout=3cols_grid&sidebar=yes&limit=9 to https://baloo.az-theme.net/?layout=3cols_grid&sidebar=yes&limit=9
+04:55:23	Warning: 	Moved Permanently for baloo.az-theme.net/?layout=2cols_grid&sidebar=yes&limit=9
+04:55:23	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout=2cols_grid&sidebar=yes&limit=9 and https://baloo.az-theme.net/?layout=2cols_grid&sidebar=yes&limit=9
+04:55:23	Warning: 	File has moved from baloo.az-theme.net/?layout=2cols_grid&sidebar=yes&limit=9 to https://baloo.az-theme.net/?layout=2cols_grid&sidebar=yes&limit=9
+04:56:54	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=37
+04:56:54	Warning: 	File has moved from https://baloo.az-theme.net/?p=37 to https://baloo.az-theme.net/21-crazy-fast-dessert-recipes-that-crush-sugar/
+04:56:54	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=32
+04:56:54	Warning: 	File has moved from https://baloo.az-theme.net/?p=32 to https://baloo.az-theme.net/how-to-take-the-perfect-selfie-according-to-a-celebrity/
+04:56:54	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=33
+04:56:54	Warning: 	File has moved from https://baloo.az-theme.net/?p=33 to https://baloo.az-theme.net/what-to-make-for-dinner-every-night-this-month/
+04:56:54	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=8
+04:56:54	Warning: 	File has moved from https://baloo.az-theme.net/?p=8 to https://baloo.az-theme.net/self-healing-material-that-can-carry-current-may-advance-robotics/
+04:57:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?layout=masonry%26sidebar=no%26limit=9 (from baloo.az-theme.net/?layout=masonry&sidebar=no&limit=9)
+04:57:13	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=59
+04:57:13	Warning: 	File has moved from https://baloo.az-theme.net/?p=59 to https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-3/
+04:57:17	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=84
+04:57:17	Warning: 	File has moved from https://baloo.az-theme.net/?p=84 to https://baloo.az-theme.net/here-are-the-15-best-bralettes-for-summer-you-can-get-for-under-200/
+04:57:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=82 (from https://baloo.az-theme.net/the-driving-forces-powering-mens-fashion-today/)
+04:57:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fthe-driving-forces-powering-mens-fashion-today%2F&format=xml (from https://baloo.az-theme.net/the-driving-forces-powering-mens-fashion-today/)
+04:57:24	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=79
+04:57:24	Warning: 	File has moved from https://baloo.az-theme.net/?p=79 to https://baloo.az-theme.net/angelina-jolie-has-found-the-perfect-summer-office-uniform/
+04:57:27	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=126
+04:57:27	Warning: 	File has moved from https://baloo.az-theme.net/?p=126 to https://baloo.az-theme.net/about/
+04:57:27	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=131
+04:57:27	Warning: 	File has moved from https://baloo.az-theme.net/?p=131 to https://baloo.az-theme.net/contact/
+04:57:27	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=89
+04:57:27	Warning: 	File has moved from https://baloo.az-theme.net/?p=89 to https://baloo.az-theme.net/angelina-jolies-secret-style-weapon-the-top-handle-tote/
+04:57:27	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=77
+04:57:27	Warning: 	File has moved from https://baloo.az-theme.net/?p=77 to https://baloo.az-theme.net/yes-kylie-jenners-party-clutch-is-a-blinged-out-bodega-bag/
+04:57:27	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=75
+04:57:27	Warning: 	File has moved from https://baloo.az-theme.net/?p=75 to https://baloo.az-theme.net/blake-lively-keeps-cool-in-the-casual-off-duty-suit/
+04:57:27	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=61
+04:57:27	Warning: 	File has moved from https://baloo.az-theme.net/?p=61 to https://baloo.az-theme.net/shop-these-top-15-sleek-alternatives-to-the-bulky-backpack/
+04:57:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=62 (from https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/)
+04:57:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fspecial-cloth-alert-cut-from-a-special-cloth%2F&format=xml (from https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/)
+04:57:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/category/food-drink/feed/ (from https://baloo.az-theme.net/category/food-drink/)
+04:57:28	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=57
+04:57:28	Warning: 	File has moved from https://baloo.az-theme.net/?p=57 to https://baloo.az-theme.net/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit/
+04:57:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=55 (from https://baloo.az-theme.net/they-key-is-to-have-every-key-the-key-to-open-every-door/)
+04:57:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fthey-key-is-to-have-every-key-the-key-to-open-every-door%2F&format=xml (from https://baloo.az-theme.net/they-key-is-to-have-every-key-the-key-to-open-every-door/)
+04:57:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=53 (from https://baloo.az-theme.net/of-course-they-dont-want-us-to-eat-our-breakfast/)
+04:57:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=49 (from https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors/)
+04:57:38	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=51
+04:57:38	Warning: 	File has moved from https://baloo.az-theme.net/?p=51 to https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors-2/
+04:57:38	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=45
+04:57:38	Warning: 	File has moved from https://baloo.az-theme.net/?p=45 to https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-2/
+04:57:38	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=43
+04:57:38	Warning: 	File has moved from https://baloo.az-theme.net/?p=43 to https://baloo.az-theme.net/lets-see-what-chef-dee-got-that-they-dont-want-us-to-eat/
+04:57:38	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=41
+04:57:38	Warning: 	File has moved from https://baloo.az-theme.net/?p=41 to https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board/
+04:57:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=82
+04:57:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=82 to https://baloo.az-theme.net/the-driving-forces-powering-mens-fashion-today/
+04:57:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=47
+04:57:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=47 to https://baloo.az-theme.net/i-take-better-pictures-caffeinated/
+04:57:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=62
+04:57:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=62 to https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/
+04:57:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=55
+04:57:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=55 to https://baloo.az-theme.net/they-key-is-to-have-every-key-the-key-to-open-every-door/
+04:57:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=53
+04:57:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=53 to https://baloo.az-theme.net/of-course-they-dont-want-us-to-eat-our-breakfast/
+04:57:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=49
+04:57:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=49 to https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors/
+04:57:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?layout_boxed=yes%26type_boxed%3Dcolor (from https://baloo.az-theme.net/page/2/?layout_boxed=yes%26type_boxed%3Dcolor)
+04:57:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?layout=mix%26sidebar%3Dyes%26limit%3D6 (from https://baloo.az-theme.net/page/2/?layout=mix%26sidebar%3Dyes%26limit%3D6)
+04:57:57	Warning: 	HTML file (77494 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/wp-json/
+04:58:15	Warning: 	HTML file (882 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/21-crazy-fast-dessert-recipes-that-crush-sugar/feed/
+04:58:17	Warning: 	HTML file (910 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/how-to-take-the-perfect-selfie-according-to-a-celebrity/feed/
+04:58:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fhow-to-take-the-perfect-selfie-according-to-a-celebrity%2F&format=xml
+04:58:19	Warning: 	HTML file (882 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/what-to-make-for-dinner-every-night-this-month/feed/
+04:58:19	Warning: 	HTML file (939 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/self-healing-material-that-can-carry-current-may-advance-robotics/feed/
+04:58:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fwhat-to-make-for-dinner-every-night-this-month%2F&format=xml
+04:58:21	Warning: 	HTML file (889 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-3/feed/
+04:58:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fegyptair-flight-crashes-with-66-people-on-board-3%2F
+04:58:24	Warning: 	HTML file (946 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/here-are-the-15-best-bralettes-for-summer-you-can-get-for-under-200/feed/
+04:58:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fegyptair-flight-crashes-with-66-people-on-board-3%2F&format=xml
+04:58:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fhere-are-the-15-best-bralettes-for-summer-you-can-get-for-under-200%2F
+04:58:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fhere-are-the-15-best-bralettes-for-summer-you-can-get-for-under-200%2F&format=xml
+04:58:28	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/the-driving-forces-powering-mens-fashion-today/feed/
+04:58:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fthe-driving-forces-powering-mens-fashion-today%2F
+04:58:30	Warning: 	HTML file (918 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/angelina-jolie-has-found-the-perfect-summer-office-uniform/feed/
+04:58:32	Warning: 	HTML file (57741 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/lifestyle/feed/
+04:58:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fangelina-jolie-has-found-the-perfect-summer-office-uniform%2F&format=xml
+04:58:36	Warning: 	HTML file (48900 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/travel/feed/
+04:58:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fabout%2F
+04:58:40	Warning: 	HTML file (52434 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/fashion/feed/
+04:58:40	Warning: 	HTML file (913 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/angelina-jolies-secret-style-weapon-the-top-handle-tote/feed/
+04:58:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fcontact%2F&format=xml
+04:58:41	Warning: 	HTML file (922 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/yes-kylie-jenners-party-clutch-is-a-blinged-out-bodega-bag/feed/
+04:58:44	Warning: 	HTML file (897 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/blake-lively-keeps-cool-in-the-casual-off-duty-suit/feed/
+04:58:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fyes-kylie-jenners-party-clutch-is-a-blinged-out-bodega-bag%2F&format=xml
+04:58:46	Warning: 	HTML file (918 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/shop-these-top-15-sleek-alternatives-to-the-bulky-backpack/feed/
+04:58:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fblake-lively-keeps-cool-in-the-casual-off-duty-suit%2F&format=xml
+04:58:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fshop-these-top-15-sleek-alternatives-to-the-bulky-backpack%2F&format=xml
+04:58:48	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/feed/
+04:58:49	Warning: 	HTML file (36505 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/world-news/feed/
+04:58:49	Warning: 	HTML file (915 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit/feed/
+04:58:51	Warning: 	HTML file (914 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/they-key-is-to-have-every-key-the-key-to-open-every-door/feed/
+04:58:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fduis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit%2F
+04:58:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fduis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit%2F&format=xml
+04:58:53	Warning: 	HTML file (891 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/of-course-they-dont-want-us-to-eat-our-breakfast/feed/
+04:58:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fof-course-they-dont-want-us-to-eat-our-breakfast%2F
+04:58:56	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors/feed/
+04:58:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fof-course-they-dont-want-us-to-eat-our-breakfast%2F&format=xml
+04:58:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fas-steve-kerr-admitted-before-the-warriors%2F
+04:58:58	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors-2/feed/
+04:58:59	Warning: 	HTML file (889 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-2/feed/
+04:59:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fas-steve-kerr-admitted-before-the-warriors-2%2F&format=xml
+04:59:01	Warning: 	HTML file (918 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/lets-see-what-chef-dee-got-that-they-dont-want-us-to-eat/feed/
+04:59:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/xmlrpc.php?rsd
+04:59:02	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board/feed/
+04:59:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Flets-see-what-chef-dee-got-that-they-dont-want-us-to-eat%2F&format=xml
+04:59:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fegyptair-flight-crashes-with-66-people-on-board%2F&format=xml
+04:59:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fthe-driving-forces-powering-mens-fashion-today%2F&format=xml
+04:59:07	Warning: 	HTML file (846 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/i-take-better-pictures-caffeinated/feed/
+04:59:08	Warning: 	HTML file (48724 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/self-healing-material-that-can-carry-current-may-advance-robotics/
+04:59:10	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:59:11	Warning: 	Moved Permanently for baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:59:11	Warning: 	Redirected link is identical because of 'URL Hack' option: baloo.az-theme.net/?layout_boxed=yes&type_boxed=color and https://baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:59:11	Warning: 	File has moved from baloo.az-theme.net/?layout_boxed=yes&type_boxed=color to https://baloo.az-theme.net/?layout_boxed=yes&type_boxed=color
+04:59:11	Warning: 	HTML file (55377 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/fashion/
+04:59:13	Warning: 	HTML file (48605 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/yes-kylie-jenners-party-clutch-is-a-blinged-out-bodega-bag/
+04:59:16	Warning: 	HTML file (48475 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/blake-lively-keeps-cool-in-the-casual-off-duty-suit/
+04:59:16	Warning: 	HTML file (29367 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/food-drink/feed/
+04:59:19	Warning: 	HTML file (48376 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/shop-these-top-15-sleek-alternatives-to-the-bulky-backpack/
+04:59:26	Warning: 	HTML file (50020 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/category/food-drink/
+04:59:34	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=32
+04:59:35	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=32
+04:59:35	Warning: 	File has moved from https://baloo.az-theme.net/?p=32 to https://baloo.az-theme.net/how-to-take-the-perfect-selfie-according-to-a-celebrity/
+04:59:35	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=33
+04:59:37	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=33
+04:59:37	Warning: 	File has moved from https://baloo.az-theme.net/?p=33 to https://baloo.az-theme.net/what-to-make-for-dinner-every-night-this-month/
+04:59:37	Warning: 	HTML file (881 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=8
+04:59:38	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=8
+04:59:38	Warning: 	File has moved from https://baloo.az-theme.net/?p=8 to https://baloo.az-theme.net/self-healing-material-that-can-carry-current-may-advance-robotics/
+04:59:38	Warning: 	HTML file (95747 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?layout_boxed=yes%26type_boxed=color
+04:59:41	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=59
+04:59:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=59 (from https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-3/)
+04:59:42	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=59
+04:59:42	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=84
+04:59:43	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=84
+04:59:43	Warning: 	File has moved from https://baloo.az-theme.net/?p=84 to https://baloo.az-theme.net/here-are-the-15-best-bralettes-for-summer-you-can-get-for-under-200/
+04:59:43	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=82
+04:59:44	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=82
+04:59:44	Warning: 	File has moved from https://baloo.az-theme.net/?p=82 to https://baloo.az-theme.net/the-driving-forces-powering-mens-fashion-today/
+04:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fthe-driving-forces-powering-mens-fashion-today%2F&format=xml
+04:59:45	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=79
+04:59:46	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=79
+04:59:46	Warning: 	File has moved from https://baloo.az-theme.net/?p=79 to https://baloo.az-theme.net/angelina-jolie-has-found-the-perfect-summer-office-uniform/
+04:59:46	Warning: 	HTML file (48674 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/i-take-better-pictures-caffeinated/
+04:59:48	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=126
+04:59:49	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=126
+04:59:49	Warning: 	File has moved from https://baloo.az-theme.net/?p=126 to https://baloo.az-theme.net/about/
+04:59:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://baloo.az-theme.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaloo.az-theme.net%2Fabout%2F&format=xml
+04:59:50	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=131
+04:59:51	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=131
+04:59:51	Warning: 	File has moved from https://baloo.az-theme.net/?p=131 to https://baloo.az-theme.net/contact/
+04:59:51	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=89
+04:59:52	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=89
+04:59:52	Warning: 	File has moved from https://baloo.az-theme.net/?p=89 to https://baloo.az-theme.net/angelina-jolies-secret-style-weapon-the-top-handle-tote/
+04:59:52	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=77
+04:59:53	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=77
+04:59:53	Warning: 	File has moved from https://baloo.az-theme.net/?p=77 to https://baloo.az-theme.net/yes-kylie-jenners-party-clutch-is-a-blinged-out-bodega-bag/
+04:59:53	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=75
+04:59:54	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=75
+04:59:54	Warning: 	File has moved from https://baloo.az-theme.net/?p=75 to https://baloo.az-theme.net/blake-lively-keeps-cool-in-the-casual-off-duty-suit/
+04:59:54	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=61
+04:59:55	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=61
+04:59:55	Warning: 	File has moved from https://baloo.az-theme.net/?p=61 to https://baloo.az-theme.net/shop-these-top-15-sleek-alternatives-to-the-bulky-backpack/
+04:59:55	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=62
+04:59:56	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=62
+04:59:56	Warning: 	File has moved from https://baloo.az-theme.net/?p=62 to https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/
+04:59:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-content/uploads/2019/05/gabrielle-henderson-701889-unsplash-570x524.jpg (from https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/)
+04:59:56	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=57
+04:59:57	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=57
+04:59:57	Warning: 	File has moved from https://baloo.az-theme.net/?p=57 to https://baloo.az-theme.net/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit/
+04:59:57	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=55
+04:59:58	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=55
+04:59:58	Warning: 	File has moved from https://baloo.az-theme.net/?p=55 to https://baloo.az-theme.net/they-key-is-to-have-every-key-the-key-to-open-every-door/
+04:59:58	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=53
+04:59:59	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=53
+04:59:59	Warning: 	File has moved from https://baloo.az-theme.net/?p=53 to https://baloo.az-theme.net/of-course-they-dont-want-us-to-eat-our-breakfast/
+04:59:59	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=49
+05:00:00	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=49
+05:00:00	Warning: 	File has moved from https://baloo.az-theme.net/?p=49 to https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors/
+05:00:00	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=51
+05:00:01	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=51
+05:00:01	Warning: 	File has moved from https://baloo.az-theme.net/?p=51 to https://baloo.az-theme.net/as-steve-kerr-admitted-before-the-warriors-2/
+05:00:01	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=45
+05:00:02	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=45
+05:00:02	Warning: 	File has moved from https://baloo.az-theme.net/?p=45 to https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-2/
+05:00:02	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=43
+05:00:03	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=43
+05:00:03	Warning: 	File has moved from https://baloo.az-theme.net/?p=43 to https://baloo.az-theme.net/lets-see-what-chef-dee-got-that-they-dont-want-us-to-eat/
+05:00:03	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=41
+05:00:05	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=41
+05:00:05	Warning: 	File has moved from https://baloo.az-theme.net/?p=41 to https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board/
+05:00:05	Warning: 	HTML file (97218 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/page/2/?layout_boxed=yes%26type_boxed%3Dcolor
+05:00:06	Warning: 	HTML file (97887 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/page/2/?layout=mix%26sidebar%3Dno%26limit%3D8
+05:00:08	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=47
+05:00:09	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=47
+05:00:09	Warning: 	File has moved from https://baloo.az-theme.net/?p=47 to https://baloo.az-theme.net/i-take-better-pictures-caffeinated/
+05:00:09	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=62
+05:00:10	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=62
+05:00:10	Warning: 	File has moved from https://baloo.az-theme.net/?p=62 to https://baloo.az-theme.net/special-cloth-alert-cut-from-a-special-cloth/
+05:00:10	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=55
+05:00:11	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=55
+05:00:11	Warning: 	File has moved from https://baloo.az-theme.net/?p=55 to https://baloo.az-theme.net/they-key-is-to-have-every-key-the-key-to-open-every-door/
+05:00:11	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=53
+05:00:13	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=53
+05:00:13	Warning: 	File has moved from https://baloo.az-theme.net/?p=53 to https://baloo.az-theme.net/of-course-they-dont-want-us-to-eat-our-breakfast/
+05:00:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-content/uploads/2019/05/taneli-lahtinen-1027400-unsplash-585x390.jpg (from https://baloo.az-theme.net/page/2/?layout=mix%26sidebar%3Dno%26limit%3D8)
+05:00:13	Warning: 	HTML file (96483 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?layout=mix%26sidebar%3Dno%26limit%3D8
+05:00:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-content/plugins/contact-form-7/images/ajax-loader.gif (from https://baloo.az-theme.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4)
+05:00:14	Error: 	"Not Found" (404) at link https://baloo.az-theme.net/wp-content/themes/baloo/libs/owl/owl.video.play.png (from https://baloo.az-theme.net/wp-content/themes/baloo/libs/owl/owl.carousel.css?ver=5.2.9)
+05:00:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/wp-content/themes/baloo/assets/images/select.png (from https://baloo.az-theme.net/wp-content/themes/baloo/style.css?ver=5.2.9)
+05:00:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://baloo.az-theme.net/?p=59 (from https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-3/)
+05:00:14	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://baloo.az-theme.net/?p=59
+05:00:16	Warning: 	Moved Permanently for https://baloo.az-theme.net/?p=59
+05:00:16	Warning: 	File has moved from https://baloo.az-theme.net/?p=59 to https://baloo.az-theme.net/egyptair-flight-crashes-with-66-people-on-board-3/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 15 seconds : 361 links scanned, 365 files written (21912490 bytes overall) [15224827 bytes received at 34999 bytes/sec], 8797432 bytes transferred using HTTP compression in 182 files, ratio 20%, 4.2 requests per connection
+(2 errors, 253 warnings, 0 messages)

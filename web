@@ -58,6 +58,21 @@ note: the Windows file system tends to use blackslashes, not forward slashes. Th
 
 What is JavaScript?
 
+<script src="scripts/main.js"></script>
+const myHeading = document.querySelector('h1');
+myHeading.textContent = 'Hello World!';
+document.querySelector('html').onclick = function() {
+	alert('Ouch! Stop poking me!');
+}
+
+
+Clients and servers
+Your internet connection
+TCP / IP
+DNS
+HTTP
+Component files
+
 
 
 

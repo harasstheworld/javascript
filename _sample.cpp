@@ -47,7 +47,7 @@ a = a > b ? a : b;
 vector<int> f(n);
 for (int &x : a) {}
 for (auto &x : a) {}
-for (const auto &v : a) {}
+for (const auto &v : a) {};
 cout << *max_element(f.begin(), f.end());
 
 
@@ -55,8 +55,9 @@ cout << *max_element(f.begin(), f.end());
 freeopen("LIS.inp", "r", stdin);
 freeopen("SOL.out", "w", stdout);
 
-Primary: Integer, Character, Boolean, Floating Point, Double Floating Point, Void, Wide Character
+Primary (Primitive Data Types): Integer, Character, Boolean, Floating Point, Double Floating Point, Void, Wide Character
 
 Derived: Function, Array, Pointer, Reference
 
 User Defined: Class, Structure, Union, Enum, Typedef
+
